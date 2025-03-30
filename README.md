@@ -9,7 +9,7 @@ Este projeto faz parte de um exercício acadêmico onde desenvolvemos um sistema
 Criamos um protótipo interativo com as telas do aplicativo, destacando as principais funcionalidades do sistema.
 
 ![Protótipo InfinityBus](prototipo.png)  
-[🔗 Acesse o Protótipo](https://www.figma.com/design/5rgzVCbHPrEZC3SusK8kED/Telas-InfinityBus?node-id=0-1&p=f&t=pwJbN8yM4BSxJI7w-0)
+[🔗 Acesse o Protótipo]([https://www.figma.com/design/5rgzVCbHPrEZC3SusK8kED/Telas-InfinityBus?node-id=0-1&p=f&t=pwJbN8yM4BSxJI7w-0](https://www.figma.com/design/5rgzVCbHPrEZC3SusK8kED/Telas-InfinityBus?node-id=0-1&t=1MzNcv1tv9T6fXK4-1))
 
 ## Diagrama de Caso de Uso
 
@@ -23,7 +23,7 @@ O diagrama de caso de uso foi desenvolvido no **Lucidchart**, detalhando os ator
 A apresentação do projeto foi elaborada no **Canva**, explicando os detalhes do sistema e suas funcionalidades.
 
 ![Apresentação InfinityBus](canva.png)  
-[🔗 Acesse a Apresentação](https://www.canva.com/design/DAGhkKnwtdQ/S1QJJwOz3-kdRQGGB2WIgg/edit)
+[🔗 Acesse a Apresentação]([https://www.canva.com/design/DAGhkKnwtdQ/S1QJJwOz3-kdRQGGB2WIgg/edit](https://www.canva.com/design/DAGhkKnwtdQ/gUxRj45d7RVBw0MHlzl9TA/view?utm_content=DAGhkKnwtdQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha9bbe31567))
 
 ---
 **Desenvolvido por Rafaela Campos** 🚀
